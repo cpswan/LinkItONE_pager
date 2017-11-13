@@ -1,7 +1,7 @@
 /*
  * Modified from SMS Control Light and LCD Hello World
  * 
- * You should insert a SIM car and attach the GPRS antenna 
+ * You should insert a SIM card and attach the GPRS antenna 
  * Send a text to display senders number and first 16 chars
  * R/G/B/W as first letter will change background colour
  *
